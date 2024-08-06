@@ -1,3 +1,10 @@
+"""
+//
+// This program contains code to do "exact numerical calculations" in support of:
+// Nic Ezzell, Lev Barash, Itay Hen, Exact and universal quantum Monte Carlo estimators for energy susceptibility and fidelity susceptibility.
+//
+//
+"""
 # %%
 ################################################
 # Functions to compute exact values for PRL

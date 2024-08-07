@@ -1,11 +1,3 @@
-"""
-//
-// This config file contains code to help generate plots in support of:
-// Nic Ezzell, Lev Barash, Itay Hen, Exact and universal quantum Monte Carlo estimators for energy susceptibility and fidelity susceptibility.
-//
-//
-"""
-
 # content of file style.mplstyle
 
 axes.axisbelow : True       # Draw axis grid lines and ticks below patches (True); above
